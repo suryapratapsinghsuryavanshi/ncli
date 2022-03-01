@@ -18,5 +18,14 @@
         "cli-meow-help": "^2.0.2",
         "cli-welcome": "^2.2.2",
         "meow": "^8.0.0"
-    }
+    },
+    "files": [
+        "index.js",
+        "utils"
+    ],
+    "keywords": [
+        "{{name}}",
+        "{{cmd}}",
+        "{{authorName}}"
+    ]
 }
