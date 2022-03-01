@@ -1,5 +1,5 @@
 {
-  "name": "ncli",
+  "name": "clisolver",
   "version": "1.0.0",
   "description": "- `A CLI for create nodejs cli`",
   "main": "index.js",
