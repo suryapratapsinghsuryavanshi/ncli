@@ -23,6 +23,7 @@
   "author": "",
   "license": "MIT",
   "bin": {
+    "clisolver": "./index.js",
     "ncli": "./index.js"
   }
 }
