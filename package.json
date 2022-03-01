@@ -1,5 +1,5 @@
 {
-  "name": "create-nodejs-cli",
+  "name": "ncli",
   "version": "1.0.0",
   "description": "- `A CLI for create nodejs cli`",
   "main": "index.js",
@@ -17,7 +17,12 @@
     "meow": "^8.0.0",
     "ora": "^5.0.0"
   },
-  "keywords": [],
+  "keywords": [
+    "nodejs cli"
+  ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "ncli": "./index.js"
+  }
 }
